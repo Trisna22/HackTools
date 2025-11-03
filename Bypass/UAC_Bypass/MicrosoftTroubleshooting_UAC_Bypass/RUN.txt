@@ -1,0 +1,5 @@
+Place the BluetoothDiagnostic.dll file in one of the early PATH environment paths.
+
+Than exec:
+
+c:\windows\syswow64\msdt.exe -path C:\WINDOWS\diagnostics\index\BluetoothDiagnostic.xml -skip yes
